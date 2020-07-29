@@ -1,9 +1,13 @@
 ---
 title: 变质（Metamorphose） by Tuesday
 tags: 传说之下 Undertale 翻译
+articles:
+  excerpt_type: html
 ---
 
-我看看没有read more会怎么样
+草，read more大法好
+
+<!--more-->
 
 ---
 
