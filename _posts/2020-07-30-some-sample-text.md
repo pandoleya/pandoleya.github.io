@@ -5,7 +5,12 @@ articles:
   excerpt_type: html
 published: true
 ---
-来试试能不能用  
+简介：看起来MERCY还是挺容易的，如果你是那种人的话
+
+原文：https://archiveofourown.org/works/5515718  
+
+---
+
 你一开始觉得很无趣。除了最开始的几个，他们都死得很容易。打打杀杀那么多年，还要应付被血和魔法锁住的怪物？还是通通杀光比较简单。
 
 ---
