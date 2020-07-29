@@ -26,12 +26,11 @@ published: true
 ---
 冷门游戏，翻译，同人，口嗨存档。
 
--《火焰纹章：风花雪月》：库罗雷特洁癖
--《女神异闻录5》：主喜多主无差
--《恶魔幸存者2》：主忧主无差
+-《火焰纹章：风花雪月》：库罗雷特洁癖  
+-《女神异闻录5》：主喜多主无差  
+-《恶魔幸存者2》：主忧主无差  
 
 ---
 
-mastodon: https://neko.st/@viki3317
-
-email: viki3317@hotmail.com
+mastodon: https://neko.st/@viki3317  
+email: viki3317@hotmail.com  
